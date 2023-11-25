@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/karimimuigai?style=social)](https://twitter.com/karimimuigai)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0ooMoqRsg5mVl7kDcb2B0w?style=social)](https://www.youtube.com/channel/UC0ooMoqRsg5mVl7kDcb2B0w)
 
-A Software Developer specializing in Python, Javascript and cloud technologies. Additionally, I have interests in opensource technologies and a great advocate for OSS. Professional experience with the technologies listed in the toolbox below.
+A Fullstack Software Developer specializing in working in a number of technologies (Django/Django-Rest/Python/JS/Svelte/Kotlin). Additionally, I am an open-source contributor and a great advocate of the same. Professional experience with the technologies listed in the toolbox below.
 
 I just created a youtube channel that I envisage to share contents ranging from Cloud services, Linux system administartion, and software development. 
 I am also committed to starting a blog where I will sharing my knowledge with other like minded individuals from the globe. Here is a Link to my [Youtube Channel](https://www.youtube.com/channel/UC0ooMoqRsg5mVl7kDcb2B0w) that will be active in coming days.
